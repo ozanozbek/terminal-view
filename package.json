@@ -1,0 +1,23 @@
+{
+  "name": "terminal-view",
+  "version": "0.0.1",
+  "description": "",
+  "main": "source/terminal-view.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozanozbek/terminal-view.git"
+  },
+  "author": {
+    "name": "Ozan Ozbek",
+    "email": "erdemozanozbek@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ozanozbek/terminal-view/issues"
+  },
+  "homepage": "https://github.com/ozanozbek/terminal-view#readme",
+  "dependencies": {
+    "terminal-screen": "^0.3.2"
+  }
+}
